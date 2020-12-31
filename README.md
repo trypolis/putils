@@ -1,2 +1,3 @@
 # putils
- A Python library of lots of functions.
+
+A single-file Python library of lots of functions.
